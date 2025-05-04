@@ -23,10 +23,7 @@ Built-in libraries: os, re
 Update the klasor_yolu variable in main.py with your target folder path
 
 Run the script:
-
-bash
-Kopyala
-Düzenle
 python main.py
+
 All .xml files in that folder will be modified automatically.
 
